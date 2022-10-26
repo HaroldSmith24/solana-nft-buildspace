@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "27JUavrQBUMs8cXD6DbWQtwygmfwrjHt2gWPt66WEtN9",
+    "candyMachineCreator": "2pdYd4gjdhpYA7S12eDT9ExLtJUjxyDF1nsQSsSSZM5X",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "Hare Krishna",
+      "image_hash": "16b411f308018be8d73d11ef6fbc7b27d31dfc9865a6bdbb811bf7ece49791de",
+      "image_link": "https://arweave.net/ZyrYpJMqlWDHTmvaC_jHkt38oR_xzpTFyzhHgfmQf4g?ext=png",
+      "metadata_hash": "4efa6c5910f18eb0e7956a22fe28bce9d79ebc8220fd4909c953b363044a4de2",
+      "metadata_link": "https://arweave.net/s0BgPB1z8zlqknX3zfDzjJFPi12_5uenUxlpmOQYsaI",
+      "onChain": true
+    },
+    "1": {
+      "name": "Hare Krishna",
+      "image_hash": "1d8070f3273086161fd167cadc39c6e720d95101d113bb6cbc72794ecf4f0c67",
+      "image_link": "https://arweave.net/WaUnobWNCWLdvD9tTSXn6eRkPlXL9D9QFVUwbu_5gv8?ext=png",
+      "metadata_hash": "4efa6c5910f18eb0e7956a22fe28bce9d79ebc8220fd4909c953b363044a4de2",
+      "metadata_link": "https://arweave.net/aP73B9R4EolCx3ClWOjRTlw4D1fJS3F1PeCc5Ztp6is",
+      "onChain": true
+    },
+    "2": {
+      "name": "Hare Krishna",
+      "image_hash": "16b411f308018be8d73d11ef6fbc7b27d31dfc9865a6bdbb811bf7ece49791de",
+      "image_link": "https://arweave.net/OLwZSlzKfCH1om8LjjlKSQHVKbhy_OKokBJbMywtU3o?ext=png",
+      "metadata_hash": "4efa6c5910f18eb0e7956a22fe28bce9d79ebc8220fd4909c953b363044a4de2",
+      "metadata_link": "https://arweave.net/WIwE68jObGSRDqcWxs9q0XNLzTFxdtjVGGe5QI0-sYY",
+      "onChain": true
+    }
+  }
+}
